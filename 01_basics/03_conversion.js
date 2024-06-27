@@ -5,15 +5,22 @@
 // let valueInNumber= Number(Score)
 // console.log(valueInNumber)
 
-// "33"=>33
-//"33abs"=> NAN Not a number
-// True=> 1; false=>0
+// // "33"=>33
+// //"33abs"=> NAN Not a number
+// // True=> 1; false=>0
 
-let isLoggedIN= "Anjani"
+// let isLoggedIN= "Anjani"
 
-let BooleanIsLoggedIn= Boolean(isLoggedIN)
-console.log(BooleanIsLoggedIn)
+// let BooleanIsLoggedIn= Boolean(isLoggedIN)
+// console.log(BooleanIsLoggedIn)
 
 // 1=> True; 0=> false
 // "=> False"
 //"Anjani"=> false
+
+let someNumber = 43
+
+let stringNumber= String(someNumber)
+
+console.log(stringNumber);
+console.log(typeof stringNumber);
