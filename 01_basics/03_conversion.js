@@ -1,9 +1,9 @@
-let Score = "Anjani"
+// let Score = "Anjani"
 
-console.log(typeof Score)
+// console.log(typeof Score)
 
-let valueInNumber= Number(Score)
-console.log(valueInNumber)
+// let valueInNumber= Number(Score)
+// console.log(valueInNumber)
 
 // // "33"=>33
 // //"33abs"=> NAN Not a number
