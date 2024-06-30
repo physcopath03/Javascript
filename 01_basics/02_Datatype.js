@@ -12,10 +12,10 @@ let isLoggedIN= false // boleean
 // bigint if the number is too long
 // string can be use in single or doulble quotes  string=>""
 // Boolean=> true/ false
-// null it is basically a standalone value
-// undefined=> when the valus is nit define as used in variable let state=""
-// basically diffence between null and undefined is null means it store some value but undefined means it is not define means empty
-// symbol=> unique
+null it is basically a standalone value
+undefined=> when the valus is nit define as used in variable let state=""
+basically diffence between null and undefined is null means it store some value but undefined means it is not define means empty
+symbol=> unique
 
 // Object
 
