@@ -6,7 +6,7 @@ let account_state;
 
 // account_Id=2
 /*
-try to use let instead of var because of issued in log scope and functional scope
+try to use let instead of var because of issue in log scope and functional scope
 possibility that we can declare the variable  as declared account_city but do not use it as it is not the good method
 
 */
