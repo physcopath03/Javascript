@@ -14,5 +14,5 @@ account_Email="ab@gmail.com"
 Account_Password="12344"
 account_city="Jaipur"
 console.log(account_Id);
-console.table([account_Email,account_Id,account_city,account_city])
+console.table([account_Email,account_Id,account_city,])
 console.log(account_state);
