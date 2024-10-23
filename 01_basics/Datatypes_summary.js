@@ -40,3 +40,34 @@ const Myfunction= function(){
 
 
 console.log(typeof(outsideTemp));
+
+
+
+
+////****************************************************************************** *//
+
+// Memory Allocation
+
+/* ************Stack(Primitive) & Heap(Non-Primitive) ************************ */
+
+// whenever a stack is used mean we get the copy of the variable we defined as there is no change in the orginal value whereever in Heap when we make the change we get the reference of the orginal value for Example
+
+let myCollegeName = "Sharda University"
+let x =" Amity University"
+
+x = "myCollegeName"
+console.log(myCollegeName);
+console.log(x);
+
+let userone={
+    email: "User@gmail.com",
+    upi: "user@ptm"
+}
+
+
+let usertwo= userone
+
+usertwo.email = "Anjani@gmail.com"
+
+console.log(userone.email);
+console.log(usertwo.email);
