@@ -29,3 +29,4 @@ const mewString = gameName.slice(-6,4)
 console.log(mewString);
 console.log(mewString);
 
+console.log(newstring);
