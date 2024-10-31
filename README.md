@@ -1,2 +1,2 @@
 # Javascript
-Starting the Javascript
+Starting the Javascript with basics
